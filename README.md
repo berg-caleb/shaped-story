@@ -1,7 +1,8 @@
 # shaped-story
+## GOAL: Take a black and white silouette and a story, fill the image's shape with text 
 First though: Python script - input .png, and text
 
-## GPT
+### GPT
 Asked GPT for a starting point to find some tools I should learn to help me do this
 #### It suggested the libraries:
 PIL (Pillow) – To process the black-and-white image.
@@ -16,4 +17,4 @@ Fill those pixels with the input text while maintaining the shape.
 Output the final image.
 
 This feels a little overengineered though. So I asked it about other options and it suggested looking for tools in photoshop or gimp that would allow me to restrict text's margin's based on a mask layer
-## Gimp
+### Gimp
